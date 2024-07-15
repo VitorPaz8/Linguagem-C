@@ -1,8 +1,15 @@
 #include <stdio.h>
- 
+
+void helloWorld() {
+    printf("Hello, World!\n");
+}
+
 int main() {
-        
-    printf("Hello World!\n");
- 
+
+    int i = 0;
+    while(i < 2){
+        helloWorld();
+    }
+    
     return 0;
 }
