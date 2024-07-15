@@ -1,4 +1,4 @@
-/*Leia quatro valores inteiros, calcule e mostre
+/*Programa que lê quatro valores inteiros, calcula e mostra
 a diferença do produto de A e B pelo produto de C e D.*/
 
 #include <stdio.h>
